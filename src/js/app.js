@@ -32,9 +32,7 @@ App = {
   },
 
   initContract: function() {
-    /*
-     * Replace me...
-     */
+  
 
     return App.bindEvents();
   },
