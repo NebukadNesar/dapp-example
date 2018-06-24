@@ -9,4 +9,6 @@ contract Random {
 		return ramdomAddres[_rand];
 	}
 
+	
+
 }
